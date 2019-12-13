@@ -1,0 +1,1 @@
+From The Odin Project's curriculum as a part of the Microverse pre-course training.
